@@ -8,7 +8,6 @@
   - [Options](#options)
   - [Raw Body](#raw-body)
   - [Koa 1 Support](#koa-1-support)
-  - [Licences](#licences)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
