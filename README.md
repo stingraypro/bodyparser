@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [koa-bodyparser](#koa-bodyparser)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Options](#options)
+  - [Raw Body](#raw-body)
+  - [Koa 1 Support](#koa-1-support)
+  - [Licences](#licences)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 koa-bodyparser
 ===============
 
